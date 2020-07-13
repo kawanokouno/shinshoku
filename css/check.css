@@ -1,0 +1,22 @@
+main .content .name {
+  border-bottom: 3px solid #eeba53;
+}
+
+main .content .check-text {
+  background-color: white;
+  color: black;
+}
+
+.box {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.back {
+  text-align: center;
+}
+/*# sourceMappingURL=check.css.map */
